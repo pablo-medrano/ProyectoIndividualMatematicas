@@ -1,3 +1,5 @@
+![Curso Matematicas MCD](https://okdiario.com/img/2017/10/12/matematicas-e1507820053741.jpg)
+
 # Proyecto Individual del curso de Matematicas
 Repositorio creado para la entrega del proyecto y tareas de la maestria en ciencia de datos
 
