@@ -19,7 +19,7 @@ Una red neuronal es un modelo de computación que es utilizado para realizar tar
 
 ## 2.- Esquema general y diagrama de flujo de matemáticas aplicadas en las redes neuronales
 
-   Ambos documentos estarán anexados en el repositorio que subiré este archivo. 
+   Ambos documentos estarán anexados al repositorio en el que subiré este archivo con los nombres Diagrama de flujo red neuronal.png y Esquema General.jpg. 
    
 ## 3.- Elegir un tema de interés
 
